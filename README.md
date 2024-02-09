@@ -1,4 +1,3 @@
-```markdown
 # Lottery Contract
 
 This project implements a simple decentralized lottery contract on the Ethereum blockchain. Users can enter the lottery by sending a certain amount of ether, and the manager (creator of the contract) can pick a winner randomly from the list of participants.
